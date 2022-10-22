@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a simple browser extension for Microsoft Edge and Google Chrome (and potentially other Chromium-based web browsers) to force US English Microsoft Docs. Microsoft Docs are often automatically and poorly translated into other languages when Microsoft decides that that is better for you. In most cases, this decision is frustrating, and in order to fix it, manual action is necessary to show English documentation. `Force English Microsoft Docs` saves you this hassle and will force English documentation automatically, every time you browse to Microsoft Docs. 
+This repository contains a simple browser extension for Microsoft Edge and Google Chrome (and potentially other Chromium-based web browsers) to force English Microsoft Docs. Microsoft Docs are often automatically and poorly translated into other languages when Microsoft decides that that is better for you. In most cases, this decision is frustrating, and in order to fix it, manual action is necessary to show English documentation. `Force English Microsoft Docs` saves you this hassle and will force English documentation automatically, every time you browse to Microsoft Docs. 
 
 ## Installation
 

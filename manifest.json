@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
     "name": "Force English Microsoft Docs",
-    "version": "0.1.0",
-    "description": "Extension to force US English Microsoft Docs. Localized MS Docs are often automatically and poorly translated and served by default.",
+    "version": "1.0.0",
+    "description": "Extension to force English Microsoft Docs as they are often automatically served in a poorly translated local language.",
     "icons": {
         "16": "icons/stopmsdocs16x16.png",
         "32": "icons/stopmsdocs32x32.png",
